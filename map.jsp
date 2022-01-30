@@ -16,6 +16,8 @@ html, body {
 	height: 100%;
 }
 </style>
+	// 카카오 디벨롭에서 자바스크립트 링크 따서 붙이기
+	// 중심좌표에 따라서 초기위치 다 바꿀수있음
 </head>
 <body>
 	<div id="map"></div>
